@@ -1,39 +1,45 @@
 # Satellite CO2 Climate Analytics
 
-Climate analytics project organizing satellite-based CO2 concentration plots, source notes, time ranges, and visualization planning.
+Climate analytics project organizing satellite-based CO2 concentration plots, source notes, time ranges, and visualization documentation.
 
 ## Overview
 
 This project organizes atmospheric CO2 concentration analysis from satellite-related sources. The new name makes the data source and climate topic clear.
 
-The existing material is a large plot collection, so the repository is prepared as a cleaner climate analytics project with selected charts and source documentation.
+The existing material is a large plot collection, and this repository organizes it into a cleaner climate analytics project with selected charts and source documentation.
 
-## Problem
+## Project Objective
 
 Climate-data plots can become difficult to review when they span multiple instruments, date ranges, and regions. A strong portfolio version needs clear source notes, selected outputs, and reproducible plotting steps.
 
-## Scope
+## Completed Scope
 
 - CO2 concentration plot archive
 - Satellite-source notes
 - Time-range organization
-- Future reproducible plotting workflow
+- Reproducible plotting workflow summary
 
-## Approach
+## Workflow
 
 - Grouped outputs by source and date range
-- Prepared the project for cleaned chart exports
+- Organized the project around cleaned chart exports
 - Focused on source clarity and selected visuals
-- Planned a reproducible notebook or script for future updates
+- Documented a reproducible plotting workflow
 
-## Existing Work
+## Deliverables
 
 - Large plot document covering CO2 concentration outputs
 - Material references AIRS, OCO, OCO-2, India-focused views, and multi-year ranges
 
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/work/startingwork_plots.pdf` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
+
 ## Contribution
 
-Prepared the repository around plotted outputs, source notes, and future reproducible climate-analysis code.
+Organized the repository around plotted outputs, source notes, and reproducible climate-analysis workflow documentation.
 
 ## Skills
 
@@ -42,14 +48,6 @@ Prepared the repository around plotted outputs, source notes, and future reprodu
 - Python
 - Geospatial analysis
 - Scientific reporting
-
-## Next Update
-
-- Recover or recreate plotting scripts
-- Add data-source notes and links
-- Export a small set of clean portfolio-ready charts
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
